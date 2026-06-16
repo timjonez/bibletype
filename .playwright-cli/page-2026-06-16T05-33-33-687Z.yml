@@ -1,0 +1,27 @@
+- main [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e6]: bible
+    - text: type
+    - generic [ref=e7]: KJV
+  - generic [ref=e9]:
+    - group "Passage length" [ref=e10]:
+      - button "1 verse" [active] [ref=e11] [cursor=pointer]
+      - button "2 verses" [ref=e12] [cursor=pointer]
+      - button "3 verses" [ref=e13] [cursor=pointer]
+      - button "5 verses" [ref=e14] [cursor=pointer]
+      - button "8 verses" [ref=e15] [cursor=pointer]
+    - group "Passage source" [ref=e16]:
+      - button "random" [ref=e17] [cursor=pointer]
+      - button "choose" [ref=e18] [cursor=pointer]
+    - generic [ref=e19]:
+      - generic "Best WPM" [ref=e20]: best 0
+      - button "history" [ref=e21] [cursor=pointer]
+      - button "☀" [ref=e22] [cursor=pointer]
+      - button "next" [ref=e23] [cursor=pointer]
+  - generic [ref=e31]:
+    - generic [ref=e32]:
+      - generic [ref=e33]: 0 wpm
+      - generic [ref=e34]: 0s
+      - generic [ref=e35]: 0%
+    - generic [ref=e36]: Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.
+    - paragraph [ref=e37]: type the passage · Tab for a new one

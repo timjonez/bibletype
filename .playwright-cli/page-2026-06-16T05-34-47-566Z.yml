@@ -1,0 +1,27 @@
+- main [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e6]: bible
+    - text: type
+    - generic [ref=e7]: KJV
+  - generic [ref=e9]:
+    - group "Passage length" [ref=e10]:
+      - button "1 verse" [ref=e11] [cursor=pointer]
+      - button "2 verses" [ref=e12] [cursor=pointer]
+      - button "3 verses" [ref=e13] [cursor=pointer]
+      - button "5 verses" [ref=e14] [cursor=pointer]
+      - button "8 verses" [ref=e15] [cursor=pointer]
+    - group "Passage source" [ref=e16]:
+      - button "random" [active] [ref=e17] [cursor=pointer]
+      - button "choose" [ref=e18] [cursor=pointer]
+    - generic [ref=e19]:
+      - generic "Best WPM" [ref=e20]: best 2403
+      - button "history" [ref=e21] [cursor=pointer]
+      - button "☀" [ref=e34] [cursor=pointer]
+      - button "next" [ref=e23] [cursor=pointer]
+  - generic [ref=e35]:
+    - generic [ref=e36]:
+      - generic [ref=e37]: 0 wpm
+      - generic [ref=e38]: 0s
+      - generic [ref=e39]: 0%
+    - generic [ref=e40]: "The wicked are overthrown, and are not: but the house of the righteous shall stand."
+    - paragraph [ref=e41]: type the passage · Tab for a new one

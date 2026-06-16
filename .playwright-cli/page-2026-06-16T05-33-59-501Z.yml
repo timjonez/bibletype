@@ -1,0 +1,26 @@
+- main [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e6]: bible
+    - text: type
+    - generic [ref=e7]: KJV
+  - generic [ref=e60]:
+    - generic [ref=e61]:
+      - heading "History" [level=2] [ref=e62]
+      - generic [ref=e63]:
+        - button "clear" [ref=e64] [cursor=pointer]
+        - button "back" [ref=e65] [cursor=pointer]
+    - table [ref=e66]:
+      - rowgroup [ref=e67]:
+        - row "wpm acc raw passage when" [ref=e68]:
+          - columnheader "wpm" [ref=e69]
+          - columnheader "acc" [ref=e70]
+          - columnheader "raw" [ref=e71]
+          - columnheader "passage" [ref=e72]
+          - columnheader "when" [ref=e73]
+      - rowgroup [ref=e74]:
+        - row "2403 100% 2403 Jonah 1:10 6/15/2026, 10:33:46 PM" [ref=e75]:
+          - cell "2403" [ref=e76]
+          - cell "100%" [ref=e77]
+          - cell "2403" [ref=e78]
+          - cell "Jonah 1:10" [ref=e79]
+          - cell "6/15/2026, 10:33:46 PM" [ref=e80]

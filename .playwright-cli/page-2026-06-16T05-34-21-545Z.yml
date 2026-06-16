@@ -1,0 +1,118 @@
+- main [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e6]: bible
+    - text: type
+    - generic [ref=e7]: KJV
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - group "Passage length" [ref=e10]:
+        - button "1 verse" [ref=e11] [cursor=pointer]
+        - button "2 verses" [ref=e12] [cursor=pointer]
+        - button "3 verses" [ref=e13] [cursor=pointer]
+        - button "5 verses" [ref=e14] [cursor=pointer]
+        - button "8 verses" [ref=e15] [cursor=pointer]
+      - group "Passage source" [ref=e16]:
+        - button "random" [ref=e17] [cursor=pointer]
+        - button "choose" [active] [ref=e18] [cursor=pointer]
+      - generic [ref=e19]:
+        - generic "Best WPM" [ref=e20]: best 2403
+        - button "history" [ref=e21] [cursor=pointer]
+        - button "☀" [ref=e22] [cursor=pointer]
+        - button "next" [ref=e23] [cursor=pointer]
+    - generic [ref=e31]:
+      - combobox "Book" [ref=e32]:
+        - option "Genesis"
+        - option "Exodus"
+        - option "Leviticus"
+        - option "Numbers"
+        - option "Deuteronomy"
+        - option "Joshua"
+        - option "Judges"
+        - option "Ruth"
+        - option "1 Samuel"
+        - option "2 Samuel"
+        - option "1 Kings"
+        - option "2 Kings"
+        - option "1 Chronicles"
+        - option "2 Chronicles"
+        - option "Ezra"
+        - option "Nehemiah"
+        - option "Esther"
+        - option "Job"
+        - option "Psalms"
+        - option "Proverbs"
+        - option "Ecclesiastes"
+        - option "Song of Solomon"
+        - option "Isaiah"
+        - option "Jeremiah"
+        - option "Lamentations"
+        - option "Ezekiel"
+        - option "Daniel"
+        - option "Hosea"
+        - option "Joel"
+        - option "Amos"
+        - option "Obadiah"
+        - option "Jonah"
+        - option "Micah"
+        - option "Nahum"
+        - option "Habakkuk"
+        - option "Zephaniah"
+        - option "Haggai"
+        - option "Zechariah"
+        - option "Malachi"
+        - option "Matthew"
+        - option "Mark"
+        - option "Luke"
+        - option "John" [selected]
+        - option "Acts"
+        - option "Romans"
+        - option "1 Corinthians"
+        - option "2 Corinthians"
+        - option "Galatians"
+        - option "Ephesians"
+        - option "Philippians"
+        - option "Colossians"
+        - option "1 Thessalonians"
+        - option "2 Thessalonians"
+        - option "1 Timothy"
+        - option "2 Timothy"
+        - option "Titus"
+        - option "Philemon"
+        - option "Hebrews"
+        - option "James"
+        - option "1 Peter"
+        - option "2 Peter"
+        - option "1 John"
+        - option "2 John"
+        - option "3 John"
+        - option "Jude"
+        - option "Revelation"
+      - combobox "Chapter" [ref=e33]:
+        - option "Chapter 1" [selected]
+        - option "Chapter 2"
+        - option "Chapter 3"
+        - option "Chapter 4"
+        - option "Chapter 5"
+        - option "Chapter 6"
+        - option "Chapter 7"
+        - option "Chapter 8"
+        - option "Chapter 9"
+        - option "Chapter 10"
+        - option "Chapter 11"
+        - option "Chapter 12"
+        - option "Chapter 13"
+        - option "Chapter 14"
+        - option "Chapter 15"
+        - option "Chapter 16"
+        - option "Chapter 17"
+        - option "Chapter 18"
+        - option "Chapter 19"
+        - option "Chapter 20"
+        - option "Chapter 21"
+  - generic [ref=e41]:
+    - generic [ref=e42]:
+      - generic [ref=e43]: 0 wpm
+      - generic [ref=e44]: 0s
+      - generic [ref=e45]: 0%
+    - generic [ref=e46]: He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.
+    - paragraph [ref=e47]: type the passage · Tab for a new one
