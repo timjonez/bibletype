@@ -4,6 +4,8 @@ A [Monkeytype](https://monkeytype.com)-style typing trainer for scripture. Each 
 is a passage of consecutive King James Version verses — type it with live
 per-character highlighting, a moving caret, and a clean WPM / accuracy results screen.
 
+**[Live site →](https://timjonez.github.io/bibletype/)** · [Deployment runs](https://github.com/timjonez/bibletype/actions/workflows/deploy.yml)
+
 The reference is hidden while you type and revealed on the results screen, so it
 doubles as a memorization aid.
 
